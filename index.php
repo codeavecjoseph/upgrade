@@ -33,6 +33,8 @@
 
     $etudiant->sePresenter();
 
+
+    echo "bonjour les amis, j'ai reussi à mettre mon premier dépot sur github";
     ?>
 
 
